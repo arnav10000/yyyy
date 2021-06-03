@@ -1,0 +1,23 @@
+article{
+    width: 50%;
+
+}
+
+#header{
+    width: 50%;
+    height: 50px;
+    font-size: 30px;
+}
+
+#about{
+    background-image: url("Background.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#container{
+    background-color: aliceblue;
+    width: 50%;
+    opacity: 0.5;
+}
+
